@@ -1,0 +1,7 @@
+{
+  "name": "many-lives",
+  "version": "1.0.0",
+  "description": "A text-based life simulator. Make choices from 18 onward.",
+  "scripts": { "start": "npx --yes serve . -l 3000" },
+  "license": "MIT"
+}
